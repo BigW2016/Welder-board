@@ -13709,7 +13709,7 @@ drill 1.0 mm</description>
 <part name="R2" library="rcl" deviceset="R-EU_" device="M1206" value="220k"/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="M1206" value="1k"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="M1206" value="22k"/>
-<part name="C1" library="rcl" deviceset="CPOL-EU" device="E2.5-5" value="10u/10V"/>
+<part name="C1" library="rcl" deviceset="CPOL-EU" device="E2.5-5" value="10u/16V"/>
 <part name="Q1" library="transistor-npn" deviceset="BC817*" device="SMD" technology="-16LT1" value="BC817"/>
 <part name="L" library="solpad" deviceset="LSP10" device=""/>
 <part name="N" library="solpad" deviceset="LSP10" device=""/>
