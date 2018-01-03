@@ -84,6 +84,13 @@ Layer=91
 Sheet="1"
 
 [Win_2]
+Type="CAM Processor"
+Loc="-8 -30 809 405"
+State=2
+Number=3
+File="numeric.brd"
+
+[Win_3]
 Type="Control Panel"
 Loc="0 0 1919 1017"
 State=1
@@ -93,3 +100,4 @@ Number=0
 Screen="1920 1080"
 Window="Win_1"
 Window="Win_2"
+Window="Win_3"
